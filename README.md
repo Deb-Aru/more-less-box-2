@@ -7,11 +7,11 @@ You need to include some text (for example a Lorem Ipsum text) to check how the 
 +
 Create an h1 headline and add a title 
 
-Create paragraphs <p> </p> in wich is included some text like Lorem Ipsum. 
+Create paragraphs <P> </P> in wich is included some text like Lorem Ipsum. 
 
 Create a div class for your 'more-less box'. <div class="more-less-box">
 
-Inside div class create a <h3> and give it a name. <h3> Fact Box </h3>
+Inside div class create a < h3> and give it a name. < h3> Fact Box </h3>
 
 Then create a <p> classe called "more-less-area collapsed". <p class="more-less-area collapsed"> end put some text which will be the one of your fact box.
 !
