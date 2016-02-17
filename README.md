@@ -5,7 +5,7 @@ The box has a click button that allows to open and close it.
 
 You need to include some text (for example a Lorem Ipsum text) to check how the box will look like.  
 
-Create an h1 headline and add a title 
+Create an `<h1>` headline and add a title 
 
 Create paragraphs p in wich is included some text like Lorem Ipsum. 
 
