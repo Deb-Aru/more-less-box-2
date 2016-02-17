@@ -3,7 +3,7 @@ And expandable box for news article created for City's MA Interactive Journalism
 
 The box has a click button that allows to open and close it.
 
-You need to include some text (<h1>for example a Lorem Ipsum text </h1>) to check how the box will look like.  
+You need to include some text (for example a Lorem Ipsum text) to check how the box will look like.  
 
 Create an h1 headline and add a title 
 
