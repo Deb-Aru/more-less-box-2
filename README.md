@@ -7,19 +7,19 @@ You need to include some text (for example a Lorem Ipsum text) to check how the 
 
 Create an `<h1>` headline and add a title 
 
-Create paragraphs p in wich is included some text like Lorem Ipsum. 
+Create paragraphs `<p>` in wich is included some text like Lorem Ipsum. 
 
-Create a div class for your 'more-less box'. div class="more-less-box"
+Create a `<div>` class for your 'more-less box'. `<div class="more-less-box"
 
-Inside div class create a h3 and give it a name. 
+Inside div class create a `<h3>` and give it a name. 
 
-Then create a 'p classe' called "more-less-area collapsed". p class="more-less-area collapsed" and put some text which will be the one of your fact box.
+Then create a 'p classe' called "more-less-area collapsed". `<p class="more-less-area collapsed" and put some text which will be the one of your fact box.
 
-Now you need a button so create an 'a classe' called "more-less button". a class= "more-less-button" 
+Now you need a button so create an 'a classe' called "more-less button". `<a class= "more-less-button" 
 
 Add this href: "javascript:void(0);"onclick="toggleMoreLess('.more-less-area')">Show/Hide
  
- Don't forget to close /a and /div
+ Don't forget to close `</a>` and `</div>`
  
 Now you need to operate on your javascript writing this function: 
 toggleMoreLess(areaClass){
