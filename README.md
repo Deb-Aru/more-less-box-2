@@ -1,7 +1,7 @@
 # more-less-box-2
 And expandable box for news article created for City's MA Interactive Journalism course
 
-<h2>The box has a click button that allows to open and close it.</h2>
+<p>The box has a click button that allows to open and close it.</p>
 
 You need to include some text (<h2>for example a Lorem Ipsum text </h2>) to check how the box will look like.  
 
